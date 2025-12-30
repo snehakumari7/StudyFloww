@@ -2,9 +2,6 @@
 
 **StudyFlow** is an intelligent, AI-powered productivity workspace designed to help you organize tasks, manage your time, and build consistent habits. With a friendly interface featuring a motivating mascot, StudyFlow combines task management, a focus timer, and streak tracking into one seamless experience.
 
-![StudyFlow Dashboard](/public/panda-writing.png) 
-*(Note: Replace with actual dashboard screenshot if available)*
-
 ## 🚀 Features
 
 -   **Dashboard Overview**: Get a quick glance at your daily quotes, next tasks, and productivity stats.
